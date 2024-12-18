@@ -29,7 +29,7 @@ public class DataType {
         boolean b1 = true;
         boolean b2 = false;
         boolean b3 = 10 < 5;
-        boolean b4 = (10 + 3) && (9 * 1);
+        boolean b4 = (10 + 3 == 13 ) && (9 * 1 == 9);
 
         //===== 문자와 문자열 타입 =====//
         char c1 = 'A';  //2byte
